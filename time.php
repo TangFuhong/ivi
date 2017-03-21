@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+	<meta charset="UTF-8">
+	<title>Document</title>
 </head>
 <body>
-<center>
-	<p></p>
-	<h1>SUCCESS!</h1><br/>
-	<h1><?php echo date('Y-m-d');  ?></h1>
-</center>
+	<div>
+		
+	</div>
 </body>
 </html>
