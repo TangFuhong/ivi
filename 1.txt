@@ -1,0 +1,10 @@
+{
+	files
+	{
+		jquery httpcode.jquery.comjquery.min.js
+	},
+	packages
+	{
+		html5_boilerplate httpsgithub.comh5bphtml5-boilerplatezipballmaster
+	}
+}
